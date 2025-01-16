@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samani Humaira</h1>
+<h1 align="center">Hi 👋, I'm Humaira Samani </h1>
 <h3 align="center">A passionate student,interested in web develoment from India</h3>
 <img alugn="right" alt = "coding" width ="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU">
 
